@@ -60,7 +60,7 @@ def main():
         text = recognize_speech_from_mic(recognizer, mic)
 
         print(f"Recognized: {text}")
-        speak(text)
+        # speak(text)
         full_context = handle_text(text)
         if contains_list(full_context, stefan_variations):
           process_sentiment(full_context)

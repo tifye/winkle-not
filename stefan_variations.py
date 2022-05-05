@@ -15,4 +15,5 @@ stefan_variations = [
   "he",
   "he is",
   "omg joshua",
+  "him",
 ]

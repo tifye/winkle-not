@@ -1,0 +1,18 @@
+stefan_variations = [
+  "stefan",
+  "stephen",
+  "ste an",
+  "st ef an",
+  "scht ef an",
+  "st ef an",
+  "steven",
+  "stefans",
+  "state farm",
+  "stop that",
+  "stop",
+  "stef",
+  "steph",
+  "he",
+  "he is",
+  "omg joshua",
+]
